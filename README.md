@@ -26,7 +26,7 @@ Let's navigate through the project structure to orient ourselves:
 * src Directory: Here, you'll find the heart of our code.
 * resources Directory: The following directory houses all the files we exported as CSVs from WireShark, along with the packet recordings stored as PCAP files.
 * res Directory: This directory contains images showcasing all the graphs generated as a result of the filters we applied.
-* Dry part: Encompassing the essence of the article "Practical Traffic Analysis Attacks on Secure Messaging Applications," it encapsulates key insights. Additionally, it provides responses to the assigned questions.
+* Dry part:The name will be Our IDs combine. Encompassing the essence of the article "Practical Traffic Analysis Attacks on Secure Messaging Applications," it encapsulates key insights. Additionally, it provides responses to the assigned questions.
 
 # Dataset and Insights
 Our methodology relies on transforming Wireshark records into CSV files for streamlined analysis. Each CSV file is a repository of vital information:
@@ -42,7 +42,8 @@ Our methodology relies on transforming Wireshark records into CSV files for stre
 1. Example One - Categorizing Packets for WhatsApp and Spotify:
    In this scenario, we organized the packets into distinct categories for WhatsApp and Spotify. By analyzing network protocols, we identified specific patterns unique to each application. This allowed us to differentiate the traffic associated with WhatsApp from that of Spotify, enabling a comprehensive analysis of their behaviors.
 
-![image](https://github.com/Kfirul/Computers_Network_Final_Project/assets/99495429/a78aad1b-7774-43e2-a586-ffc434130cef)
+![image](https://github.com/Kfirul/Computers_Network_Final_Project/assets/99495429/ec138688-8fe6-45e8-aca5-5f081a392957)
+
 
 
  2.Example Two - Categorizing Packets for Message Types:**
