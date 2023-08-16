@@ -13,7 +13,7 @@ Copy code:git clone https://github.com/Kfirul/Computers_Network_Final_Project.gi
 
 In case the folder doesn't appear in your Jupter do the following steps:
 
-1. Open Jupter Notebook via Anaconda Navigator.
+1.Open Jupter Notebook via Anaconda Navigator.
 
 2.Upload to Jupter the Folder as *ZIP* file then open a new Notebook type python3, and write there the following code:
 * import zipfile as zf
