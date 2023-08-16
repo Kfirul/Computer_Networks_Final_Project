@@ -3,6 +3,29 @@ Written by:
 * Roy ofer
 * Kfir Zilbernagel
 
+## Getting Started with the Project
+To make use of this project, follow these simple steps:
+
+### Clone the Repository:
+Open your terminal and navigate to the directory where you want to store the project. Use the following command to clone the repository:
+
+Copy code:git clone https://github.com/Kfirul/Computers_Network_Final_Project.git
+
+In case the folder doesn't appear in your Jupter do the following steps:
+
+1.Open Jupter Notebook via Anaconda Navigator.
+
+2.Upload to Jupter the Folder as *ZIP* file then open a new Notebook type python3, and write there the following code:
+* import zipfile as zf
+* files = zf.ZipFile("Computers_Network_Final_Project.zip", 'r')
+* files.extractall('Computers_Network_Final_Project')
+* files.close()
+
+3.After using the code, you will now have a folder name Computers_Network_Final_Project, where the code is inside src folder and the file named Computers Network.ipynb.
+
+4.Now you're all set to dive into the project and explore its functionalities.
+
+
 ## Project Overview
 Welcome to this project, where we delve into the realm of secure messaging application vulnerabilities through an exploration inspired by the research paper titled "Practical Traffic Analysis Attacks on Secure Messaging Applications".
 
@@ -51,18 +74,7 @@ Our methodology relies on transforming Wireshark records into CSV files for stre
 
 ![image](https://github.com/Kfirul/Computers_Network_Final_Project/assets/99495429/0619f099-adbd-4803-b9c9-3aa1f6202863)
 
-## Getting Started with the Project
-To make use of this project, follow these simple steps:
 
-### Clone the Repository:
-Open your terminal and navigate to the directory where you want to store the project. Use the following command to clone the repository:
 
-Copy code:git clone https://github.com/Kfirul/Computers_Network_Final_Project.git
-
-Explore and Run: inside the project directory, explore the contents and follow the README instructions to set up and run the project as needed.
-
-Now you're all set to dive into the project and explore its functionalities.
-
-Enjoy!
 
   
