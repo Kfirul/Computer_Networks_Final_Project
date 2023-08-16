@@ -11,17 +11,19 @@ Open your terminal and navigate to the directory where you want to store the pro
 
 Copy code:git clone https://github.com/Kfirul/Computers_Network_Final_Project.git
 
-Open Jupter Notebook via Anaconda Navigator.
+In case the folder doesn't appear in your Jupter do the following steps:
 
-Upload to Jupter the Folder as *ZIP* file then open a new Notebook type python3, and write there the following code:
+1. Open Jupter Notebook via Anaconda Navigator.
+
+2.Upload to Jupter the Folder as *ZIP* file then open a new Notebook type python3, and write there the following code:
 * import zipfile as zf
 * files = zf.ZipFile("Computers_Network_Final_Project.zip", 'r')
 * files.extractall('Computers_Network_Final_Project')
 * files.close()
 
-After using the code, you will now have a folder name Computers_Network_Final_Project, where the code is inside src folder and the file named Computers Network.ipynb.
+3.After using the code, you will now have a folder name Computers_Network_Final_Project, where the code is inside src folder and the file named Computers Network.ipynb.
 
-Now you're all set to dive into the project and explore its functionalities.
+4.Now you're all set to dive into the project and explore its functionalities.
 
 
 ## Project Overview
