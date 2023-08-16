@@ -46,7 +46,8 @@ We meticulously consider two scenarios:
 # The Project Structure
 Let's navigate through the project structure to orient ourselves:
 
-* src Directory: Here, you'll find the heart of our code.
+* src Directory: Here, you'll find the heart of our code in the Jupyter Notebook, In the functions file, we documented the key functions we utilized solely for the purpose of facilitating easy access to their code, should anyone prefer to locate them there instead of navigating through the entire notebook.
+  (It is organized neatly in the notebook as well).
 * resources Directory: The following directory houses all the files we exported as CSVs from WireShark, along with the packet recordings stored as PCAP files.
 * res Directory: This directory contains images showcasing all the graphs generated as a result of the filters we applied.
 * Dry part:The name will be Our IDs combine. Encompassing the essence of the article "Practical Traffic Analysis Attacks on Secure Messaging Applications," it encapsulates key insights. Additionally, it provides responses to the assigned questions.
